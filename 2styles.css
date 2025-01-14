@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    border: 85px solid rgb(150, 0, 0);
+    width: 88%;
+    height:1000px;
+}
+h1 {
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.form {
+    text-align: center;
+    font-size: xx-large;
+}
+#apple {
+    position:relative;
+    top: 30px;
+}
